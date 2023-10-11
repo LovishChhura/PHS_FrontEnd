@@ -22,7 +22,7 @@
 
 /* Navbar */
 .navo {
-    background-color: var(--bs-bgcolor2);
+    background-color: var(--bs-main-color);
 }
 
 /* .navoli {
@@ -64,4 +64,13 @@
     position: relative;
     background-color: #1a1d20;
     right: -30%;
+}
+
+/* yoga section */
+.white_cardy{
+    background-color: #FFFFFF;
+}
+
+.yog-bg{
+    background-color: var(--bs-bgcolor2);
 }
