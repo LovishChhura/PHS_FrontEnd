@@ -86,3 +86,16 @@
     place-items: left;
     height: inherit;
 }
+
+/*Exercises*/
+
+.head{
+    background-color: var(--bs-bgcolor2);
+}
+.beginnery{
+    background-color: var(--bs-main-color);
+}
+
+.advancey{
+    background-color: var(--bs-bgcolor2);
+}
