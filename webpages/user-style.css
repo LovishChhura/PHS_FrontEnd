@@ -74,3 +74,15 @@
 .yog-bg{
     background-color: var(--bs-bgcolor2);
 }
+
+
+
+/*health check*/
+.formy{
+    /* display: flex;*/
+    justify-content: flex-start;
+    align-items: start; 
+    display:grid;
+    place-items: left;
+    height: inherit;
+}
