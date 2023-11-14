@@ -42,68 +42,85 @@
 /*activity section*/
 
 
-.hero-section{
+.hero-section {
     background-color: var(--bs-bgcolor2);
 }
-.hero-section .container{
-    display:grid;
+
+.hero-section .container {
+    display: grid;
     place-items: center;
     height: inherit;
 }
 
 /*exercise section*/
-.cardy{
+.cardy {
     background-color: var(--bs-bgcolor2);
 }
-.left_arrow{
+
+.left_arrow {
     position: relative;
     background-color: #1a1d20;
     left: -30%;
 }
-.right_arrow{
+
+.right_arrow {
     position: relative;
     background-color: #1a1d20;
     right: -30%;
 }
 
 /* yoga section */
-.white_cardy{
+.white_cardy {
     background-color: #FFFFFF;
 }
 
-.yog-bg{
+.yog-bg {
     background-color: var(--bs-bgcolor2);
 }
 
 
 
 /*health check*/
-.formy{
+.formy {
     /* display: flex;*/
     justify-content: flex-start;
-    align-items: start; 
-    display:grid;
+    align-items: start;
+    display: grid;
     place-items: left;
     height: inherit;
 }
 
 /*Exercises*/
 
-.head{
+.head {
     background-color: var(--bs-bgcolor2);
 }
-.beginnery{
+
+.beginnery {
     background-color: var(--bs-main-color);
 }
-.advancey{
+
+.advancey {
     background-color: var(--bs-bgcolor2);
 }
 
 /*Yoga Asanas*/
-.intermediatey{
+.intermediatey {
     background-color: var(--bs-bgcolor2);
 }
 
-.y_advancey{
+.y_advancey {
     background-color: var(--bs-main-color);
+}
+
+
+/* Home Remedies */
+
+.hrem {
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+
+h5.hremt{
+    text-align: center;
 }
