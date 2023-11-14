@@ -95,7 +95,15 @@
 .beginnery{
     background-color: var(--bs-main-color);
 }
-
 .advancey{
     background-color: var(--bs-bgcolor2);
+}
+
+/*Yoga Asanas*/
+.intermediatey{
+    background-color: var(--bs-bgcolor2);
+}
+
+.y_advancey{
+    background-color: var(--bs-main-color);
 }
